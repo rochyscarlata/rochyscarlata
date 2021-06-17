@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi coders 👋:woman_technologist:
 ![Image of Ro](https://github.com/rochyscarlata/rochyscarlata/blob/main/ro.png)
 <!--
 **rochyscarlata/rochyscarlata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
