@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Image of Ro](https://github.com/rochyscarlata/rochyscarlata/blob/main/Rosario%20Scarlata%20(2).png)
+![Image of Ro](https://github.com/rochyscarlata/rochyscarlata/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).png)
 <!--
 **rochyscarlata/rochyscarlata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
