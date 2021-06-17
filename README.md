@@ -1,5 +1,9 @@
 # Hi coders 👋:woman_technologist:
 ![Image of Ro](https://github.com/rochyscarlata/rochyscarlata/blob/main/gitrosa.png)
+
+- :detective:	 I’m looking for my first job as a FrontEnd Dev!
+- 📫 How to reach me: 
+  * [LinkedIn](https://www.linkedin.com/in/rosario-scarlata-153b831a1/)
 <!--
 **rochyscarlata/rochyscarlata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
