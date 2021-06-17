@@ -1,12 +1,13 @@
 # Hi coders 👋:woman_technologist:
 ![Image of Ro](https://github.com/rochyscarlata/rochyscarlata/blob/main/gitrosa.png)
 
-- :detective:	 I’m looking for my first job as a FrontEnd Dev!
+:black_small_square: :detective:	 I’m looking for my first job as a FrontEnd Dev!
 
-- 🌱2021 Goals: get a job and grow professionally.
-- - 📫 How to reach me: 
+
+:black_small_square:  📫 How to reach me: 
   * [LinkedIn](https://www.linkedin.com/in/rosario-scarlata-153b831a1/)
   * [Web](http://www.rosarioscarlata.website/)
+:black_small_square: 🌱2021 Goals: get a job and grow professionally :rocket:
 <!--
 **rochyscarlata/rochyscarlata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
