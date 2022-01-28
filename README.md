@@ -1,7 +1,6 @@
 # Hi coders 👋:woman_technologist:
-![Image of Ro](https://github.com/rochyscarlata/rochyscarlata/blob/main/gitrosa.png)
-
-:heavy_check_mark: ⚡ I’m currently working on JP Morgan & Chase as a Software Engineer!
+✨ _special_ ✨My name is Rosario and you can call me Ro
+:heavy_check_mark: ⚡ I’m currently working at JP Morgan & Chase as a Software Engineer!
 
 
 :heavy_check_mark:  📫 How to reach me: 
