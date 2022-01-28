@@ -1,5 +1,6 @@
 # Hi coders 👋:woman_technologist:
 ✨ My name is _Rosario_ and you can call me Ro ✨
+
 :heavy_check_mark: ⚡ I’m currently working at JP Morgan & Chase as a Software Engineer!
 
 
