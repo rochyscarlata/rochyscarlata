@@ -1,4 +1,4 @@
-# Hi coders 👋:woman_technologist:
+# Hi coders 👋
 ✨ My name is _Rosario_ and you can call me Ro ✨
 
 :heavy_check_mark: ⚡ I’m currently working at JP Morgan & Chase as a Software Engineer!
@@ -9,7 +9,7 @@
   * [Web](http://www.rosarioscarlata.website/)
 
 
-:heavy_check_mark: 🌱2023 Goals: Grow up professionally :rocket:
+:heavy_check_mark: 🌱2024 Goals: Grow up professionally :rocket:
 
 :coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee::coffee:
 <!--
